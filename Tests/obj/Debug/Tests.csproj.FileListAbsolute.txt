@@ -1,7 +1,0 @@
-D:\Workspace\Tests\bin\Debug\Tests.exe.config
-D:\Workspace\Tests\bin\Debug\Tests.exe
-D:\Workspace\Tests\bin\Debug\Tests.pdb
-D:\Workspace\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
-D:\Workspace\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
-D:\Workspace\Tests\obj\Debug\Tests.exe
-D:\Workspace\Tests\obj\Debug\Tests.pdb
